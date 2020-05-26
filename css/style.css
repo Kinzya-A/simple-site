@@ -1,0 +1,82 @@
+     @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+     body {
+         background-color: rgb(81, 126, 221);
+     }
+     
+     .header-text {
+         font-family: 'Oswald', sans-serif;
+         margin-left: 50px;
+         text-align: center;
+         display: inline-flex;
+     }
+     
+     #top {
+         margin-left: 150px;
+     }
+     
+     .container-header {
+         padding-left: 10%;
+     }
+     
+     .container-header {
+         height: 80px;
+         padding-top: 10px;
+         display: inline-flex;
+         width: 70%;
+         margin-left: 15%;
+     }
+     
+     a {
+         text-decoration: none;
+         font-family: 'Oswald', sans-serif;
+     }
+     
+     div>a {}
+     
+     .container-left {
+         height: 410px;
+         margin-left: 6%;
+         width: 12%;
+         border-right: 1px black solid;
+         border: 3px rgb(81, 117, 216) solid;
+     }
+     
+     .container-center {
+         width: 60%;
+         border-top: 4px rgb(104, 208, 226) solid;
+         border-left: 4px rgb(104, 208, 226)solid;
+         border-right: 4px rgb(104, 208, 226) solid;
+         margin-left: 4px;
+         margin-right: 4px;
+     }
+     
+     .container-right {
+         height: 500px;
+         width: 20%;
+         border: 3px rgb(81, 117, 216) solid;
+     }
+     
+     .container {
+         height: 500px;
+         width: 100%;
+         display: flex;
+     }
+     
+     .footer {
+         height: 150px;
+         width: 100%;
+     }
+     
+     div>a {
+         margin-top: 110px;
+     }
+     
+     .container-left a {
+         margin: 24px;
+     }
+     
+     #logo-image {
+         width: 50;
+         height: 70px;
+         padding-top: 17px;
+     }
